@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'guagua's homepage',
+  name: 'guagua homepage',
   domain: 'https://www.notion.so/Next-js-Notion-Starter-Kit-Template-1060c0b4c9ec803488d3e35ea5f92142',
   author: 'Shiyan Wang',
 
